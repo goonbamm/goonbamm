@@ -1,16 +1,58 @@
-### Hi there 👋
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Hey,%20geronimo!&fontAlign=50&fontAlignY=40&color=0:EEFF00,100:a82da8&fontColor=ffffff&fontSize=54)
 
-<!--
-**goonbamm/goonbamm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>🍠 About Me 🍠</h3>
 
-Here are some ideas to get you started:
+~~~python
+I am interested in Natural Language Processing.
+I love to work with poeple.
+I love growth.
+~~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+----
+
+<br>
+
+<h3>🛠 Tech Stack 🛠</h3>
+
+----
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  
+  <br>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HuggingFace-FFD400?style=flat-square&logoColor=white"/></a>&nbsp
+
+  <br>
+  <img src="https://img.shields.io/badge/BurgerKing-D62300?style=flat-square&logo=BurgerKing&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Starbucks-006241?style=flat-square&logo=Starbucks&logoColor=white"/></a>&nbsp
+</p>
+
+<br>
+
+<h3>🔑 BAEKJOON ONLINE JUDGE 🔑</h3>
+
+----
+
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=goonbamm)](https://solved.ac/goonbamm)
+
+<br>
+
+
+<h3>📊 GitHub stats 📊</h3>
+
+----
+
+[![goonbamm's GitHub stats](https://github-readme-stats.vercel.app/api?username=goonbamm)](https://github.com/goonbamm/github-readme-stats)
+
+<br>
+
+<h3>✨ Contacts ✨</h3>
+
+----
+
+Gmail ✉: goonbamm@gmail.com
+
+blog 📝: https://heygeronimo.tistory.com/
