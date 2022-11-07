@@ -32,6 +32,14 @@ I love growth.
 
 <br>
 
+<h3>📊 CAREER 📊</h3>
+
+----
+
+- [Uni-DTHON 2022 데이터톤 수상 1등](https://aifactory.space/competition/leaderboard/2141)
+
+<br>
+
 <h3>🔑 BAEKJOON ONLINE JUDGE 🔑</h3>
 
 ----
