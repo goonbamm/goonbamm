@@ -38,6 +38,8 @@ I love growth.
 
 - [Uni-DTHON 2022 데이터톤 수상 1등](https://aifactory.space/competition/leaderboard/2141)
 
+- [4th AI x bookathon 참가](https://heygeronimo.tistory.com/42)
+
 <br>
 
 <h3>🔑 BAEKJOON ONLINE JUDGE 🔑</h3>
