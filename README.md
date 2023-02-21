@@ -4,7 +4,7 @@
 
 ~~~python
 I am interested in Natural Language Processing.
-I love to work with poeple.
+I love to work with people.
 I love growth.
 ~~~
 
