@@ -36,6 +36,8 @@ I love growth.
 
 ----
 
+- [Co Deep Learning Project 최우수상 수상](https://github.com/goonbamm/Co_Deep_Learning)
+
 - [Uni-DTHON 2022 데이터톤 수상 1등](https://aifactory.space/competition/leaderboard/2141)
 
 - [4th AI x bookathon 참가](https://heygeronimo.tistory.com/42)
