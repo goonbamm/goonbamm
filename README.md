@@ -42,6 +42,8 @@ I love growth.
 
 - [4th AI x bookathon 참가](https://heygeronimo.tistory.com/42)
 
+- [한국 AI 유튜브 채널 정리](https://github.com/goonbamm/Awesome-Korean-AI-Youtubes)
+
 <br>
 
 <h3>🔑 BAEKJOON ONLINE JUDGE 🔑</h3>
