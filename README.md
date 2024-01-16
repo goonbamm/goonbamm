@@ -3,7 +3,7 @@
 <h3>🍠 About Me 🍠</h3>
 
 ~~~python
-I am interested in Natural Language Processing.
+I am interested in Natural Language Processing and Multi-Modal.
 I love to work with people.
 I love growth.
 ~~~
